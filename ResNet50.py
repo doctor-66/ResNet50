@@ -1,4 +1,3 @@
-# print("Please define your ResNet50 in this file.")
 import torch
 import torch.nn as nn
 
